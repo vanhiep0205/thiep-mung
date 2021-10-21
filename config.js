@@ -1,6 +1,6 @@
 const nameGirl = 'Em';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Kỉ niệm 5 tháng yêu nhau ';
+const eventName = '153 days yêu nhau ';
 const titleCard = 'Tặng em yêuuu';
 const contentCard = 'Mỗi Ngày, mỗi giờ, mỗi năm và cho đến tận cùng. Anh chỉ muốn được bên cạnh em như những ngày tháng vừa qua. Yêu em công chúa của anh ♥️❤️';
 
